@@ -76,3 +76,4 @@ Além disso, a **Playlist** contém:
 1. Compile o programa com o comando:
    ```bash
    gcc playlist.c -o playlist
+   ```
